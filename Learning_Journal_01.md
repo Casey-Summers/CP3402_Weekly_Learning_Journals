@@ -4,21 +4,27 @@ Original work of Casey Summers. This week I focused on...
 # Learning Activities & Resources
 > Guiding statements/questions: :bulb:
 > - If you learned from something, link it!
-> - Compare why you chose to learn one thing over the other. See above section &uarr;
+> - Compare why you chose to learn one thing over the other. See the above section &uarr;
 > - Format: `topic` | `Purpose` | `Link` <br>
 
 > *Correct* examples: "Watching a learning course, doing a tutorial, getting expert advice, going to a seminar." <br>
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+- [x] Practise existing Markdown skills and utilise at least three new learned features
+- [ ] Revisit Git repos and create a template for efficient journal completion
+- [ ] Learn precisely what a CMS is and should be used for
+- [ ] Revisit HTML basics and write sample elements
+- [ ] Revisit CSS basics and write sample elements
+- [ ] Review different JavaScript prompts
+- [ ] Learn PHP connectivity and convention basics
+- [ ] Review some design principles of good UX and UI
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `Markdown Hacks` | `Markdown skills refresher` | [Link](https://www.markdownguide.org/hacks/#:~:text=If%20your%20Markdown%20processor%20supports,these%20words%20will%20be%20underlined%20)
+2. `Basics of Markdown Walkthrough` | `See and practice basic MD` | [Link](https://www.kaggle.com/code/caseysummers/jupyter-notebook-101/edit)
+3. Lindsay's Powerpoint *
+4. `topic` | `Purpose` | `Link`
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
