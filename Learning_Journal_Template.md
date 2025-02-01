@@ -3,13 +3,14 @@ Original work of Casey Summers. This week I focused on...
 
 # Learning Activities & Resources
 > Guiding statements/questions: :bulb:
-> - If you learned from something, link it! 
+> - If you learned from something, link it!
+> - Compare why you chose to learn one thing over the other. See above section &uarr;
 > - Format: `topic` | `Purpose` | `Link` <br>
 
 > *Correct* examples: "Watching a learning course, doing a tutorial, getting expert advice, going to a seminar." <br>
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
-#### Desired learning outcomes & identified gaps in knowledge:
+#### Desired learning outcomes & identified gaps in knowledge: 
 - [x] Outcome 1
 - [ ] Outcome 2
 - [ ] Outcome 3
