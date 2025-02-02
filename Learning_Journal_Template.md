@@ -1,5 +1,5 @@
 # Week `_` - Learning Journal
-Original work of Casey Summers. This week I focused on... <br>
+This week I focused on... <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*- Original work of **Casey Summers***.
 
 # Learning Activities & Resources
