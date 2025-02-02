@@ -1,5 +1,6 @@
 # Week `_` - Learning Journal
-Original work of Casey Summers. This week I focused on...
+Original work of Casey Summers. This week I focused on... <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*- Original work of **Casey Summers***.
 
 # Learning Activities & Resources
 > Guiding statements/questions: :bulb:
@@ -22,7 +23,7 @@ Original work of Casey Summers. This week I focused on...
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning for this subject on related and listed topics.
+#### This week I spent `_` hours exclusively learning related topics for this subject.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
@@ -38,8 +39,8 @@ This week I did (brief context)... in the process, I learned about (personal lea
 >**Employability**: Are these skills transferable to the real world? <br>
 >**Insights**: What have you learned about yourself from your insights? <br>
 > - How does the industry use what I have learned today?
-> - How do I see myself using the skills I have learned in a career?
-> - What career would I need to use these skills, and is that something I want/am working towards?
+> - How do I see myself using the skills I have learned today for my career?
+> - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
 My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
