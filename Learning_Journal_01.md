@@ -26,14 +26,15 @@ This week I focused on revising my HTML skills by coding a website in VS Code an
 1. `Markdown Hacks` | `Markdown skills refresher` | [Link](https://www.markdownguide.org/hacks/#:~:text=If%20your%20Markdown%20processor%20supports,these%20words%20will%20be%20underlined%20)
 2. `Basics of Markdown Walkthrough` | `See and practice basic MD` | [Link](https://www.kaggle.com/code/caseysummers/jupyter-notebook-101/edit)
 3. `Lindsay's Powerpoint` | `Identification of knowledge gaps` | [JCU](https://learn.jcu.edu.au/ultra/courses/_184793_1/outline/file/_8652842_1)
-4. `HTML` | `Guide for basic HTML features and static website` | [Link](https://www.youtube.com/watch?v=PlxWf493en4)
-5. `GitHub Pages` | `Hosting a website with GitHub Pages` | [Link](https://docs.github.com/en/pages/quickstart)
-6. `Uploading a Project` | `GitHub Repository Refresher` | [Link](https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github)
-7. `Ux` | `Revising UX Design` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?resume=false&u=2223545)
-8. `UI` | `Revising UI Design` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?resume=false&u=2223545)
-9. `Prototyping` | `Creating flexible Figma prototypes` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?resume=false&u=2223545)
-10. `Video Course on UX/UI` | `Walkthrough that connects UX/UI to reality ` | [Link](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
-11. `Seminar with Lindsay` | `Clarify questions and ask for Lindsay's experience with past classes` | 
+4. `CMS` | `Explains what a CMS is and its various features` | [Link](https://www.cmswire.com/digital-experience/what-is-a-content-management-system/?utm_source=chatgpt.com)
+5. `HTML` | `Guide for basic HTML features and static website` | [Link](https://www.youtube.com/watch?v=PlxWf493en4)
+6. `GitHub Pages` | `Hosting a website with GitHub Pages` | [Link](https://docs.github.com/en/pages/quickstart)
+7. `Uploading a Project` | `GitHub Repository Refresher` | [Link](https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github)
+8. `Ux` | `Revising UX Design` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?resume=false&u=2223545)
+9. `UI` | `Revising UI Design` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-interface-ui-design?resume=false&u=2223545)
+10. `Prototyping` | `Creating flexible Figma prototypes` | [Link](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/prototyping-tools?resume=false&u=2223545)
+11. `Video Course on UX/UI` | `Walkthrough that connects UX/UI to reality ` | [Link](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
+12. `Seminar with Lindsay` | `Clarify questions and ask for Lindsay's experience with past classes` | Not Yet Uploaded [JCU](https://learn.jcu.edu.au/ultra/courses/_184793_1/outline/lti/launchFrame?toolHref=https:~2F~2Flearn.jcu.edu.au~2Fwebapps~2Fblackboard~2Fexecute~2Fblti~2FlaunchPlacement%3Fblti_placement_id%3D_185_1%26course_id%3D_184793_1%26from_ultra%3Dtrue&toolTitle=Access%20Subject%20Video%20Library%20(Panopto))
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
