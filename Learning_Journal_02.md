@@ -31,8 +31,8 @@ Otherwise, I watched the recommended 'LinkedIn Learning' videos on WordPress, wh
 3. `Joomla` | `Adding Menu Itmes` | [Link]([https://www.youtube.com/watch?v=dqmw8xIVoyQ](https://www.youtube.com/watch?v=tIkX-FRz0LQ&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP&index=17))
 4. `WordPress` | `Installing and Running` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/install-and-running-wordpress?resume=false&u=2223545)
 5. `WordPress` | `Categories and Tags` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/sidebar-the-difference-between-categories-and-tags?resume=false&u=2223545)
-6. `Lindsay's Dynamic Website` | `Showcase a DYnamic Website in a Local Environment` | [Link](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=8ba1103d-df80-46c5-8964-b27a00170ab4&start=652.834079)
-7. ...
+6. `Lindsay's Dynamic Website` | `Showcase a Dynamic Website in a Local Environment` | [JCU](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=8ba1103d-df80-46c5-8964-b27a00170ab4&start=652.834079)
+7. `Joomla Template` | `A Free Template to Set a High Standard and Practise Editing` | [Link](https://templatetoaster.com/template/education-online-courses-and-education-joomla-template)
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
@@ -45,7 +45,10 @@ Otherwise, I watched the recommended 'LinkedIn Learning' videos on WordPress, wh
 > - Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks. - Lindsay Ward
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
-This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+This week, I researched which hosting service would be best for launching a Joomla site, and I decided on CloudAccess. They offer Joomla preinstalled, and they have a free tier for basic websites. I also learned how to set up a Joomla site both locally and publicly. This involved using XAMPP to create a local environment with SQL and Apache. For the public site, I used a subdomain from CloudAccess to host my Joomla website. Once the domain was created, I was able to access "content" and "menus," which turned out to be less intuitive than I expected. To figure out how to manipulate these elements, I watched several tutorial videos. I focused on removing unnecessary metadata and cloning some of my existing HTML code. 
+<br><br>
+I struggled to find a way to edit the default template to either be blank or fit my needs. However, I eventually found and installed a template, but it didn’t look appropriate for my site, and I wasn't sure how to edit it. Moving forward, I will focus on understanding template editing and syncing my local and public environments.
+
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
@@ -56,4 +59,8 @@ This week I did (brief context)... in the process, I learned about (personal lea
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+**Career**: This week, my learnings about Joomla, hosting, and local development have been really useful as they lay a solid foundation for web development. These skills are highly relevant for careers in IT and web development, where the ability to manage websites locally and on live servers is crucial. Customising templates in Joomla will definitely come in handy for future roles in web design.
+<br><br>
+**Employability**: These skills transfer well to many roles in web development and IT support. Working with content management systems like Joomla, managing local and live environments, and handling website deployment are all common tasks in many positions, including Web Developer, IT Support Specialist, and Systems Administrator. Knowledge of hosting providers, templates, and database management is highly relevant for various technical positions.
+<br><br>
+**Insights**: This week, I've learned that what may be easy and intuitive in one aspect of IT, is the complete opposite in another. I found that I struggled with the whole new system of a CMS, and would much prefer just to write the code in HTML where I feel I have more control over what is happening. I disliked the feeling of having a middle-man trying to decide what I wanted and forcing me to create 'content' that was attributed to 'menus'. Despite this, I am sure with more experience I will learn how it is innovative and saving millions of other developers time over traditional methods. I also suspect that it may just be a Joomla issue, and I certainly hope that WordPress is a bit easier (from what I've seen so far).
