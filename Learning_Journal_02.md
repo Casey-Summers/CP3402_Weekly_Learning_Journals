@@ -16,18 +16,27 @@ Otherwise, I watched the recommended 'LinkedIn Learning' videos on WordPress, wh
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+- [ ] Revisit CSS basics and write sample stylisations
+- [ ] Review different JavaScript prompts
+- [X] Learn PHP connectivity and convention basics
+- [X] Learn the difference between locally hosted and publicly available websites
+- [X] Set up a local version of a Joomla website and use some customisation
+- [ ] Sync a local environment with a public hosting service
+- [X] Revise WordPress basics
+- [X] Learn about the installation and *How-To* side of WordPress 
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `PHP` | `PHP Basics and Syntax` | [Link](https://www.w3schools.com/php/php_syntax.asp)
+2. `Joomla` | `Joomla Install Tutorial` | [Link](https://www.youtube.com/watch?v=dqmw8xIVoyQ)
+3. `Joomla` | `Adding Menu Itmes` | [Link]([https://www.youtube.com/watch?v=dqmw8xIVoyQ](https://www.youtube.com/watch?v=tIkX-FRz0LQ&list=PLWPirh4EWFpEdUBvOvtVeXXzDtAW9jcWP&index=17))
+4. `WordPress` | `Installing and Running` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/install-and-running-wordpress?resume=false&u=2223545)
+5. `WordPress` | `Categories and Tags` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/sidebar-the-difference-between-categories-and-tags?resume=false&u=2223545)
+6. `Lindsay's Dynamic Website` | `Showcase a DYnamic Website in a Local Environment` | [Link](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=8ba1103d-df80-46c5-8964-b27a00170ab4&start=652.834079)
+7. ...
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning related topics for this subject.
+#### This week I spent `4` hours exclusively learning related topics for this subject.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
