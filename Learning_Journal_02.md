@@ -1,5 +1,9 @@
 # Week 2 - Learning Journal
-This week I focused on... <br>
+This week I focused on starting to get an understanding of the difference between a locally hosted website, and a publicly available one. I also studied the difference in how you go about hosting them and what this means when trying to push changes.
+Although it was not necessary to locally host my website for this practical, I still attempted to. I was able to create a local environment using XAMPP, MySQL, PHP, and Joomla, and I was able to customise the website locally too. However, I ran into issues
+when trying to sync my local environment with a hosting service. This is something I plan to study further in later practicals, despite the website I submitted for this week. <br>
+
+Otherwise, I watched the recommended 'LinkedIn Learning' videos on WordPress, which clarified a few questions I had from the previous week and also sparked my interest in starting a local environment. I also studied some 'backend' `menu` and `menu item` adding tutorials for Joomla.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*- Original work of **Casey Summers***.
 
 # Learning Activities & Resources
