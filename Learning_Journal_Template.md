@@ -1,6 +1,4 @@
 # Week `_` - Learning Journal
-This week I focused on... <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*- Original work of **Casey Summers***.
 
 # Learning Activities & Resources
 > Guiding statements/questions: :bulb:
@@ -44,3 +42,7 @@ This week I did (brief context)... in the process, I learned about (personal lea
 > - Was there something specific about the way I learned things that was effective this week?
 
 My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Original work of ***Casey Summers***.
