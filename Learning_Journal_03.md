@@ -24,7 +24,7 @@
 2. `WordPress` | `Themes and Customisation` | [Link](https://wordpress.org/themes/)  
 3. `WordPress` | `Plugins and Functionality` | [Link](https://wordpress.org/plugins/)  
 4. `Group Formation Seminar` | `Understanding team dynamics as an external student` | [JCU]() (not yet available online)
-5. `WordPress vs. Joomla` | `Comparing CMS usability and flexibility` | [Link](https://www.wpbeginner.com/wordpress-vs-joomla/)  
+5. `WordPress vs. Joomla` | `Comparing CMS usability and flexibility` | [Link](https://www.youtube.com/watch?v=cfFTp9vlhws)  
 6. `Page Builders` | `Exploring Elementor and Gutenberg for WordPress customisation` | [Link](https://elementor.com/)  
 
 
@@ -39,10 +39,19 @@
 > - Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks. - Lindsay Ward
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
-This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
-This week a major learning point for me, relevant to group formation, was during the external seminar. During this time I saw the two parellels of desirable teammate features. For instance, one student was confident enough to turn on their webcam and directly speak to the lecturer about a problem they were having. I found it very desirable to have someone on my team that is able to not only identify that they have an issue, but are confident enough to directly ask the lecturer for assistance on it. Additionally, the way they took the feedback was without excuses, and rather acceptance and learning.
+**Insights as dotpoints**:
+- WordPress is significantly more intuitive than Joomla, but it still has a learning curve.  
+- Plugins can greatly enhance WordPress but can also slow down or break a site if chosen poorly.
+- Page builders make design easier but come with limitations unless combined with custom coding.  
+  
+At first, I was relieved to find that WordPress felt much more intuitive than Joomla. The dashboard was cleaner, and installing plugins and themes was straightforward. But after testing a few plugins, I quickly realised that some of them slowed down my site or didn’t work well together. This made me aware that while WordPress is flexible, blindly adding features can cause performance issues.  
+
+A real win this week was using a page builder to customise a test page. It was exciting to see how much creative control I had without needing to touch code. But that excitement turned to frustration when I tried tweaking something beyond the page builder’s options—I felt stuck. This highlighted that while WordPress is beginner-friendly, deep customisation still requires coding knowledge.  
+
+The external seminar on group formation was also a learning moment. I noticed a strong contrast in how students approached participation—some hesitated (like me), while others confidently asked the lecturer questions. One student in particular stood out because they openly sought help and took feedback without defensiveness. That made me reflect on how I sometimes hold back in group settings. Seeing how much smoother their experience was just by speaking up made me realise that I need to work on that myself.  
 
 # Career/Employability/Learning Insights
+
 >**Career**: How can your learnings aid your career? <br>
 >**Employability**: Are these skills transferable to the real world? <br>
 >**Insights**: What have you learned about yourself from your insights? <br>
@@ -51,7 +60,19 @@ This week a major learning point for me, relevant to group formation, was during
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+**Insights as dotpoints**:
+- See opportunities to ask for help as a display of confidence and not embarressment. It embodies a valuable trait in teamwork of being open-minded and willing to be taught.  
+- Clarifying before being asked to clarify; be direct and clear in your feedback to improve learning efficiency.  
+- *Adaptability* is a key—learning tool which allows you to learn from testing with both familiar and unfamiliar tasks.  
+- Too often groups are disconnect by lack of communication, or positive updates on group milestones. Active goal-setting and participation is vital.
+  
+This week a major learning point for me, relevant to group formation, was during the external seminar. During this time I saw the two parellels of desirable teammate features. For instance, one student was confident enough to turn on their webcam and directly speak to the lecturer about a problem they were having. I found it very desirable to have someone on my team that is able to not only identify that they have an issue, but are confident enough to directly ask the lecturer for assistance on it. Additionally, the way they took the feedback was without excuses, and rather acceptance and learning.
+
+**Career**: WordPress is a widely used CMS, and getting comfortable with it opens doors to freelance work and IT roles. I’ve also learned that businesses choose platforms based on different needs—Joomla has its place, even if I didn’t enjoy it as much.  
+
+**Employability**: The ability to quickly learn and troubleshoot software is a key skill in IT. This week reinforced that I need to test things thoroughly before relying on them, whether it’s plugins or team collaboration methods. I also realised that strong communication is just as valuable as technical skills.  
+
+**Insights**: I underestimated how much trial and error is involved in learning a new system, even one designed to be user-friendly. WordPress was easier to navigate than Joomla, but I still ran into roadblocks that forced me to problem-solve. I also saw how much confidence affects teamwork—I want to improve at speaking up in group settings instead of hesitating.  
 
 <br>
 
