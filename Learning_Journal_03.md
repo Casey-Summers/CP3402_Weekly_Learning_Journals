@@ -31,6 +31,7 @@
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
 This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+This week a major learning point for me, relevant to group formation, was during the external seminar. During this time I saw the two parellels of desirable teammate features. For instance, one student was confident enough to turn on their webcam and directly speak to the lecturer about a problem they were having. I found it very desirable to have someone on my team that is able to not only identify that they have an issue, but are confident enough to directly ask the lecturer for assistance on it. Additionally, the way they took the feedback was without excuses, and rather acceptance and learning.
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
