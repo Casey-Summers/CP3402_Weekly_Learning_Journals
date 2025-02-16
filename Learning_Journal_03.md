@@ -10,14 +10,23 @@
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+- [X] Explore the WordPress dashboard and settings  
+- [X] Understand the difference between WordPress themes and plugins  
+- [X] Learn how to create and customise pages in WordPress  
+- [X] Participate in the group formation process as an external student  
+- [X] Compare WordPress and Joomla to identify strengths and weaknesses  
+- [X] Learn how to install and configure plugins for added functionality  
+- [ ] Research best practices for collaborative website development  
+- [ ] Explore advanced customisation options for WordPress themes 
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `WordPress` | `Dashboard Overview` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/exploring-the-wordpress-dashboard)  
+2. `WordPress` | `Themes and Customisation` | [Link](https://wordpress.org/themes/)  
+3. `WordPress` | `Plugins and Functionality` | [Link](https://wordpress.org/plugins/)  
+4. `Group Formation Seminar` | `Understanding team dynamics as an external student` | [JCU Online Seminar Recording]() (not yet available online)
+5. `WordPress vs. Joomla` | `Comparing CMS usability and flexibility` | [Link](https://www.wpbeginner.com/wordpress-vs-joomla/)  
+6. `Page Builders` | `Exploring Elementor and Gutenberg for WordPress customisation` | [Link](https://elementor.com/)  
+
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
