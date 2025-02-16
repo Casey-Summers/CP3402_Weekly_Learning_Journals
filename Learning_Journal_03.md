@@ -23,14 +23,14 @@
 1. `WordPress` | `Dashboard Overview` | [Link](https://www.linkedin.com/learning/wordpress-5-essential-training/exploring-the-wordpress-dashboard)  
 2. `WordPress` | `Themes and Customisation` | [Link](https://wordpress.org/themes/)  
 3. `WordPress` | `Plugins and Functionality` | [Link](https://wordpress.org/plugins/)  
-4. `Group Formation Seminar` | `Understanding team dynamics as an external student` | [JCU Online Seminar Recording]() (not yet available online)
+4. `Group Formation Seminar` | `Understanding team dynamics as an external student` | [JCU]() (not yet available online)
 5. `WordPress vs. Joomla` | `Comparing CMS usability and flexibility` | [Link](https://www.wpbeginner.com/wordpress-vs-joomla/)  
 6. `Page Builders` | `Exploring Elementor and Gutenberg for WordPress customisation` | [Link](https://elementor.com/)  
 
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning related topics for this subject.
+#### This week I spent `4` hours exclusively learning related topics for this subject.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
