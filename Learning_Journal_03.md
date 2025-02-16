@@ -44,11 +44,9 @@
 - Plugins can greatly enhance WordPress but can also slow down or break a site if chosen poorly.
 - Page builders make design easier but come with limitations unless combined with custom coding.  
   
-At first, I was relieved to find that WordPress felt much more intuitive than Joomla. The dashboard was cleaner, and installing plugins and themes was straightforward. But after testing a few plugins, I quickly realised that some of them slowed down my site or didn’t work well together. This made me aware that while WordPress is flexible, blindly adding features can cause performance issues.  
-
-A real win this week was using a page builder to customise a test page. It was exciting to see how much creative control I had without needing to touch code. But that excitement turned to frustration when I tried tweaking something beyond the page builder’s options—I felt stuck. This highlighted that while WordPress is beginner-friendly, deep customisation still requires coding knowledge.  
-
-The external seminar on group formation was also a learning moment. I noticed a strong contrast in how students approached participation—some hesitated (like me), while others confidently asked the lecturer questions. One student in particular stood out because they openly sought help and took feedback without defensiveness. That made me reflect on how I sometimes hold back in group settings. Seeing how much smoother their experience was just by speaking up made me realise that I need to work on that myself.  
+Plugins extend functionality but can introduce performance issues or security risks if poorly optimised or outdated. Selecting well-supported plugins and managing updates is crucial to maintaining site stability. I preformed some updates on my plugins and checked their descriptions of features and it is clear they are extremely powerful and I will need to include them in my website going forward. Otherwise, this week I decided to get the foundations down for my website as a prototype, in the hope that I can scuplt it how I prefer once I understand WordPress more.
+<br><br>
+I also learned how page builders simplify design but impose limitations without custom coding. While they speed up development, they can restrict flexibility, making direct code edits necessary for advanced customisation. I also discovered that global styling settings in WordPress themes can override individual page customisations. This meant that even when I adjusted fonts or colours on a single page, the theme settings would sometimes reset them. Understanding how to properly manage global and local styles will be essential for achieving a consistent design.
 
 # Career/Employability/Learning Insights
 
@@ -64,16 +62,15 @@ The external seminar on group formation was also a learning moment. I noticed a 
 - See opportunities to ask for help as a display of confidence and not embarressment. It embodies a valuable trait in teamwork of being open-minded and willing to be taught.  
 - Clarifying before being asked to clarify; be direct and clear in your feedback to improve learning efficiency.  
 - *Adaptability* is a key—learning tool which allows you to learn from testing with both familiar and unfamiliar tasks.  
-- Too often groups are disconnect by lack of communication, or positive updates on group milestones. Active goal-setting and participation is vital.
+- Too often groups are disconnect by lack of communication, or non-exsitant updates on group milestones. Active goal-setting and participation is vital.
   
-This week a major learning point for me, relevant to group formation, was during the external seminar. During this time I saw the two parellels of desirable teammate features. For instance, one student was confident enough to turn on their webcam and directly speak to the lecturer about a problem they were having. I found it very desirable to have someone on my team that is able to not only identify that they have an issue, but are confident enough to directly ask the lecturer for assistance on it. Additionally, the way they took the feedback was without excuses, and rather acceptance and learning.
-
-**Career**: WordPress is a widely used CMS, and getting comfortable with it opens doors to freelance work and IT roles. I’ve also learned that businesses choose platforms based on different needs—Joomla has its place, even if I didn’t enjoy it as much.  
-
+This week a major learning point for me, relevant to group formation, was during the external seminar. During this time I saw the two parellels of desirable teammate features. For instance, one student was confident enough to turn on their webcam and directly speak to the lecturer about a problem they were having. I found it very desirable to have someone on my team that is able to not only identify that they have an issue, but are confident enough to directly ask the lecturer for assistance on it. They were able to take the feedback without excuses and use it as a valuable learning moment. Comparatively, the opposite side of this was someone who was waiting to be spoken to and not participiating actively in seminar activities. Although I realise and agree that this is not inherently bad, the group was relying on the participation of this person and they were not able to contribute meaninfully. This makes me consider: "which would you rather on your team?" and "which would you prefer to be?"
+<br><br>
+**Career**: WordPress is a widely used CMS, and getting comfortable with it opens doors to freelance work and IT roles. I’ve also learned that businesses choose platforms based on different needs. Thus, Joomla still has its place, even if I didn’t find it as efficient or useful.  
+<br>
 **Employability**: The ability to quickly learn and troubleshoot software is a key skill in IT. This week reinforced that I need to test things thoroughly before relying on them, whether it’s plugins or team collaboration methods. I also realised that strong communication is just as valuable as technical skills.  
-
-**Insights**: I underestimated how much trial and error is involved in learning a new system, even one designed to be user-friendly. WordPress was easier to navigate than Joomla, but I still ran into roadblocks that forced me to problem-solve. I also saw how much confidence affects teamwork—I want to improve at speaking up in group settings instead of hesitating.  
-
+<br>
+**Insights**: I underestimated how much trial and error is involved in learning a new system, even one designed to be user-friendly. WordPress was easier to navigate than Joomla, but I still ran into roadblocks that forced me to problem-solve. I also saw how much confidence affects teamwork. This directly informed me being an active participant, which is something I intend to keep up in future practicals, whilst interviewing for a group, and whilst in the group itself.
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Original work of ***Casey Summers***.
