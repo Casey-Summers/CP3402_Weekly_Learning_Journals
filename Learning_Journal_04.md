@@ -10,18 +10,27 @@
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+- [x] Understand the importance and separation of local, staging, and production environments
+- [X] Revise how to setup a local environment (completed as an additional task previously)
+- [X] Learn new features/insights about my local environment setup
+- [X] Compare and contrast local environment alternatives
+- [ ] Practice WordPress stylisation and creation
+- [X] Understand how local and production environments can be synced
+- [ ] Study WordPress version control (LinkedIn Learning)
+- [ ] Be able to deploy a streamlined local -> staging -> production pipeline (as displayed in the demo)  
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `Version Control` | `Applicablity of Version Control Everywhere; for Everyone` | [Link](https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?u=2223545)
+2. `LocalWP` | `How to Use LocalWP and the Features it Offers` | [Link](https://www.youtube.com/watch?v=osfn0o5gbXY)
+3. `XAMPP` | `Setup Tutorial and How to Use` | [Link](https://www.youtube.com/watch?v=08s1vfU-lmc)
+4. `Production Pipeline` | `Explain a the Standard Industry Development Pipeline` | [Link](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=cec42c66-e7c3-4d21-9174-b27a00170c9e&start=2.599896)
+5. `WordPress Migration` | `Showcase a Migration Tool Alternative` | [Link](https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/welcome?u=2223545)
+6. `All-In-One WP Migration` | `Showcase a Plugin that can handle WP Migration with Inmporting and Exporting` | [Link](https://www.youtube.com/watch?v=jNNEKarvGz8)
+7. `Modern Web Design Process` | `Enhance Understanding of the Web Design Process` | [Link](https://www.linkedin.com/learning/mapping-the-modern-web-design-process/create-great-informational-user-experiences?u=2223545)
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning related topics for this subject.
+#### This week I spent `5` hours exclusively learning related topics for this subject.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
