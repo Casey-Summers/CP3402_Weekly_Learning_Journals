@@ -3,7 +3,7 @@
 # Learning Activities & Resources
 > Guiding statements/questions: :bulb:
 > - If you learned from something, link it!
-> - Compare why you chose to learn one thing over the other. See above section &uarr;
+> - Compare why you chose to learn one thing over the other.
 > - Format: `topic` | `Purpose` | `Link` <br>
 
 > *Correct* examples: "Watching a learning course, doing a tutorial, getting expert advice, going to a seminar." <br>
@@ -16,7 +16,7 @@
 - [X] Compare and contrast local environment alternatives
 - [ ] Practice WordPress stylisation and creation
 - [X] Understand how local and production environments can be synced
-- [ ] Study WordPress version control (LinkedIn Learning)
+- [X] Study WordPress version control (LinkedIn Learning)
 - [ ] Be able to deploy a streamlined local -> staging -> production pipeline (as displayed in the demo)  
 
 #### Resources list:
@@ -39,7 +39,9 @@
 > - Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks. - Lindsay Ward
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
-This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+This week I aimed to setup a local environment that is linked with a database that runs WordPress to be ran, and can have said data migrated to an external environment. In the process, I learned about a third and interesting environment called 'staging', which has the important distinct of allowing developers to quality check a product in a production-like environment before it goes live. It also allows for stakeholders or clients to test recent changes without interferring with either development or live databases. This processed revealed that although I understood the local and production environments quite quickly, it took more reasoning and explanation to understand the significance of a 'staging' environment. This led me to asking a series of clarifying questions within this week seminar and was given insightful responses from Lindsay, which clarified exactly the purpose (stated above) and even old examples of the 'local' -> 'staging' -> 'production' pipeline. I also learned that I struggled with connecting the many layers of VVV to work as shown in the example, instead I found it easier to research modern alternatives and landed on XAMPP with a migration plugin (All-in-one WP Migration). 
+
+To go further, my research and the seminar I attended taught me that although the environment I have setup is perfectly acceptable, the 'industry standard' solution evolves containersation of deployment environments within virtual machines, all interconnected with a single software like VVV. This ensures that environments are easily replicated, highly available, unanimous, and have all requirements self-contained. Thus, in the ideal world, there are some improvements to be made yet.    
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
