@@ -14,7 +14,7 @@
 - [X] Revise how to setup a local environment (completed as an additional task previously)
 - [X] Learn new features/insights about my local environment setup
 - [X] Compare and contrast local environment alternatives
-- [ ] Practice WordPress stylisation and creation
+- [X] Practice WordPress stylisation and creation
 - [X] Understand how local and production environments can be synced
 - [X] Study WordPress version control (LinkedIn Learning)
 - [ ] Be able to deploy a streamlined local -> staging -> production pipeline (as displayed in the demo)  
