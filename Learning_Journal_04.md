@@ -52,7 +52,22 @@ To go further, my research and the seminar I attended taught me that although th
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+### Career/Employability/Learning Insights  
+
+#### Insights  
+- Setting up deployment environments like local, staging, and production goes beyond just moving files around. I learned firsthand how these environments prevent mistakes by allowing testing before changes go live.  
+- Industry workflows rely on structured pipelines, and skipping a proper staging step can lead to unexpected failures. This became clear when troubleshooting deployment issues that only appeared after migration.  
+- While researching XAMPP and WP migration tools, I saw how different tools solve similar problems but with varying levels of efficiency. Being flexible and open to alternatives is just as important as mastering one method.  
+- Real learning happens when questioning why industry standards exist, not just following best practices without understanding their purpose. This mindset shift helped me approach problems more critically.  
+
+#### Career  
+WordPress and version control are essential in web development and IT roles. Becoming comfortable with these systems has made me more confident in handling real-world scenarios like site migrations and troubleshooting deployment issues. I also gained insight into how staging environments are used in larger-scale applications, something crucial for roles in software engineering, DevOps, and IT infrastructure.  
+
+#### Employability  
+This week emphasised the importance of adaptability. I had to test different methods, troubleshoot unexpected issues, and research alternatives when things didn’t work as expected. These problem-solving skills are what make a strong IT professional. I also realised that many companies rely on containerised environments (like Docker) for staging and deployment, which is something I should explore further to stay competitive in the industry.  
+
+#### Personal Insights  
+I gained insight into how I approach different solutions to a task. Sometimes, while it can be perfectly acceptable to blindly follow a guide and reach the end destination then work back to learn, other times it is far better to learn during the journey. This is especially true with complex, multi-layered tasks such containerisation on VVV, where you need to explicity understand what your are doing at each step and the effects that actions is predicted to make. 
 
 <br>
 
