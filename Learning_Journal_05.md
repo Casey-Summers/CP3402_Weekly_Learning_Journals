@@ -10,18 +10,25 @@
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+- [x] Explore the purpose of a child theme
+- [X] Understand the difference between a child and parent theme and their use-cases
+- [X] Practice using the site inspector to make live changes that can be transferred to 'Additional CSS'
+- [ ] Create a child theme manually on my local environment with at least 6 style modifications
+- [ ] Research how child themes have been deprecated by the WordPress block editor
+- [ ] Additional CSS and WordPress practice for my WordPress site
+- [ ] Update existing linkedIn profile and make a relevant post
+- [ ] ...
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `Child Themes with VVV` | `Show How VVV can be used to Create Child Theme Files` | [JCU](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=2c849570-c103-4b35-907d-b27a00170c13&start=0)
+2. `Child Themes Manually` | `Describes the Requirements of a Child Theme within 'htdocs'` | [JCU](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=604396c6-0e44-4117-b854-b27a00170a1c&start=0)
+3. `WordPress Child Theme Documentation` | `Details the purpose and scope of Child Themes within a WordPress Project` | [Link](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+4. `topic` | `Purpose` | `Link`
+5. `topic` | `Purpose` | `Link`
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning related topics for this subject.
+#### This week I spent `4` hours exclusively learning related topics for this subject.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
