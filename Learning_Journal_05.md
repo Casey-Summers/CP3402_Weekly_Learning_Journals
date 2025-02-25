@@ -55,7 +55,22 @@ Another interesting insight I gained this week was that there can typically be n
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+### Insights:
+- Child theme customisation ensures WordPress site modifications persist after updates.
+- Full Site Editing (FSE) is changing the relevance of traditional child themes.
+- The inspector tool reveals how WordPress structures styles and layout elements.
+- WordPress often has unnecessary padding and restrictive block elements.
+- Grandchild themes typically do not exist in WordPress due to complexity.
+- Additional CSS can act as a pseudo grandchild theme by storing styles in the database.
+
+### Career:
+The ability to customise WordPress themes, debug styling issues, and implement child themes aligns with several careers in web development, front-end development, and UI/UX design. Staying updated with new trends like FSE ensures that I will understand the continued relevance of child themes and other important aspects of WordPress site creation. I also familiarised myself with LinkedIn posting, which is sure to boost career engagement and act as a useful tool to record self-development.
+
+### Employability:
+WordPress development is a sought-after skill, as many businesses rely on it for their online presence. Understanding how to customise themes, migrate styles, and work with modern tools makes me more competitive in the job market. Additionally, problem-solving and adaptability are crucial soft skills that employers value, and ones that I practised when finding an alternative to an error I had encountered. My exposure to manually performing 'plug-in tasks' has given me a deeper understanding of the requirements behind the tools I use. To showcase these qualities, LinkedIn will continue to be an effective tool for tracking my professional development, and making a post will be a valuable first step.
+
+### Personal Insights:
+I have realised that I enjoy finding alternative solutions within web development, especially when it involves utlising a new tool or a combination of existing ones. My research-driven approach to learning helps me quickly find solutions, and I can definitely see myself using this skill to automate and streamline similar tasks. I also see the value in keeping up with industry changes, as outdated knowledge can heavily limit effectiveness. Specifically, I aim to fully utilise FSE’s built-in features, find plug-ins that handle simple and repetitive tasks, and refine my use of industry tools like the element inspector.
 
 <br>
 
