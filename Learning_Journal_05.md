@@ -23,8 +23,10 @@
 1. `Child Themes with VVV` | `Show How VVV can be used to Create Child Theme Files` | [JCU](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=2c849570-c103-4b35-907d-b27a00170c13&start=0)
 2. `Child Themes Manually` | `Describes the Requirements of a Child Theme within 'htdocs'` | [JCU](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=604396c6-0e44-4117-b854-b27a00170a1c&start=0)
 3. `WordPress Child Theme Documentation` | `Details the purpose and scope of Child Themes within a WordPress Project` | [Link](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
-4. `topic` | `Purpose` | `Link`
-5. `topic` | `Purpose` | `Link`
+4. `Style.css Documentation` | `Explain the Expected Headers within the Main Style.css Sheet ` | [Link](https://developer.wordpress.org/themes/core-concepts/main-stylesheet/)
+5. `Theme Creator Plugin` | `Showcases a Modern Plugin to help create a child theme integrated with WordPress` | [Link](https://www.youtube.com/watch?v=Wpc6FAsi7xI)
+6. `topic` | `Purpose` | [Link]()
+7. `topic` | `Purpose` | [Link]()
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
