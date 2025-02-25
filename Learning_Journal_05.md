@@ -38,6 +38,7 @@
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
 This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+An interesting insight I gained this week was that there can typically be no such thing as a grandchild theme, in the way that a child theme would have a further sub-childtheme. The hierarchy of themes is simply limited to parent and child themes because any further depth would create a complexity nightmare of find the right level of theme that a modification has been made. Despite this, WordPress allows 'Additional CSS' to be added to a live website which, although not store within the files and on a database instead, acts as a pseudo 'grandchild' theme.
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
