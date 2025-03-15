@@ -25,7 +25,7 @@ Most of this week's content was about following the guides provided to set up th
 1. `JCU Student Registry` | `Find and Invite Group Members via Email` | [JCU Registry](https://learn.jcu.edu.au/ultra/courses/_184793_1/outline/roster) [Slack Registry with Emails](https://app.slack.com/client/T0C3E7EP2/C0K0UUFN2)
 2. `WordPress Workflows` | `Provides a fantastic local/staging/production workflow example with suggested tools` | [Youtube WordPress Workflow Guide](https://www.youtube.com/watch?v=BrwdgJ0aGsA)
 3. `"3 ways to create a great work culture"` | `Provides relevant examples on what defines a great team culture` | [Chris White Ted Talk](https://www.youtube.com/watch?v=2y8SA6cLUys)
-4. `Course on Team Culture` | `Explains How organizational culture affects project` | [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-15528659/how-organizational-culture-affects-projects?resume=false&u=2223545)
+4. `Course on Team Culture` | `Explains How organisational culture affects project` | [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-15528659/how-organizational-culture-affects-projects?resume=false&u=2223545)
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose; just provide a time. - Lindsay Ward
@@ -38,7 +38,7 @@ Most of this week's content was about following the guides provided to set up th
 > - Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks. - Lindsay Ward
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
-This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+This week I joined a Discord group, set up Trello boards, and started a conversation about using GitHub for WordPress version control. I learned that mixing real-time chats with visual task boards can uncover hidden team issues and workflow gaps. For example, while Discord lets us share ideas quickly, Trello forces us to plan tasks more carefully, which shows where our immediate ideas might not fit with our long-term goals. This process helped me see how digital tools work together to balance creativity and realistic group expectations.
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
@@ -49,8 +49,11 @@ This week I did (brief context)... in the process, I learned about (personal lea
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
-
-<br>
+**Career Insights**: My experience this week has shown me that blending technical tools with thoughtful planning is very important. Today’s tech jobs, especially in project management and web development, need skills in using platforms like GitHub, Discord, and Trello together. I now understand that the real challenge is in managing the balance between quick communication and careful planning. Of which, is a skill that many modern tech careers look for.
+<br><br>
+**Employability Insights**: Using different digital tools together has reinforced my belief in smart teamwork. It’s not just about using each tool by itself, it’s about creating a smooth system that boosts productivity and solves problems before they become big. This approach is very practical and makes me more ready for real-world jobs, where employers appreciate both technical skills and the ability to plan ahead.
+<br><br>
+**Learning Insights**: On a personal note, this week made me appreciate the detailed side of digital collaboration. I found out that managing a good workflow means stepping back to spot small issues before they turn into bigger problems. This lesson isn’t always obvious at first, but it’s key to continuous improvement. It has reminded me to keep learning and stay flexible, which I believe will give me an edge in my future career.
+<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Original work of ***Casey Summers***.
