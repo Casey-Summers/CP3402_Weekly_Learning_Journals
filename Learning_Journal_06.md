@@ -26,6 +26,7 @@ Most of this week's content was about following the guides provided to set up th
 2. `WordPress Workflows` | `Provides a fantastic local/staging/production workflow example with suggested tools` | [Youtube WordPress Workflow Guide](https://www.youtube.com/watch?v=BrwdgJ0aGsA)
 3. `"3 ways to create a great work culture"` | `Provides relevant examples on what defines a great team culture` | [Chris White Ted Talk](https://www.youtube.com/watch?v=2y8SA6cLUys)
 4. `Course on Team Culture` | `Explains How organisational culture affects project` | [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-15528659/how-organizational-culture-affects-projects?resume=false&u=2223545)
+5. `Project Management` | `Lindsay's personal experience with Project Management and industry expectations` | [Lindsay's Lecture on Project Management](https://jcu.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e804ad20-3a0d-41bb-ac34-b27a001709fd&start=46.668324)
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose; just provide a time. - Lindsay Ward
