@@ -14,17 +14,16 @@
 - [x] Write and use PHP functions with parameters
 - [ ] Practise PHP database connection in a local environment for a personal project (future goal)
 
-#### Resources:
+#### Learning Resources:
 1. `PHP Documentation` | `Syntax & functions` | [PHP Manual](https://www.php.net/manual/en/)
-2. `PHP Documentation` | `Looking into XSS attack prevention` | [PHP Manual]([https://stackoverflow.com/](https://www.php.net/htmlspecialchars))
-3. `MDN Web Docs` | `PHP and HTML best practices` | [MDN PHP Guide](https://developer.mozilla.org/en-US/docs/Web/PHP)
+2. `PHP Documentation` | `Looking into XSS attack prevention` | [PHP Manual](https://www.php.net/htmlspecialchars)
+3. `MDN Web Docs` | `PHP and HTML best practices` | [MDN PHP Guide](https://developer.mozilla.org/en-US/docs/Glossary/PHP)
 4. `W3Schools` | `Loops, conditionals, functions` | [W3Schools PHP](https://www.w3schools.com/php/)
-5. `Youtube Video` | `Basic PHP Overview` | [PHP Tutorial Series](https://www.youtube.com/watch?v=a7_WFUlFS94)
-6. `Stack Overflow` | `Can you use HTML inside PHP echo?` | [Stack Overflow Thread](https://stackoverflow.com/questions/46918709/can-you-use-html-inside-php-echo)
-7. `PHP Manual` | `Using inline styles within PHP echo statements` | [PHP Manual](https://www.php.net/manual/en/function.echo.php)
-8. `MDN Web Docs` | `Best practices for integrating JavaScript with PHP` | [MDN Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
-9. `PHP and JavaScript` | `Does JavaScript need to be in a separate file or can it be in PHP?` | [Stack Overflow Discussion](https://stackoverflow.com/questions/43502956/should-javascript-be-in-a-separate-file-or-included-in-php)
-10. `CSS-Tricks` | `Proper ways to style PHP-generated HTML with inline CSS and external stylesheets` | [CSS-Tricks](https://css-tricks.com/)
+5. `Youtube Video` | `Basic PHP Overview` | [PHP Tutorial](https://www.youtube.com/watch?v=a7_WFUlFS94)
+6. `Stack Overflow` | `Can you use HTML inside PHP echo?` | [Stack Overflow Thread](https://stackoverflow.com/questions/43358175/putting-html-inside-php)
+7. `MDN Web Docs` | `Best practices for integrating JavaScript with PHP` | [MDN Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+8. `LinkedIn Learning PHP` | `PHP conditional statements overview` | [LinkedIn PHP Basics](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?contextUrn=urn%3Ali%3AlyndaLearningPath%3A57bdd8a292015ae4c0cb990f&resume=false&u=2223545)
+9. `CSS-Tricks` | `Proper ways to style PHP-generated HTML with inline CSS and external stylesheets` | [CSS-Tricks](https://css-tricks.com/)
 
 ## Estimated Hours
 #### This week, I spent `6` hours learning PHP and related topics for this week's practical.
