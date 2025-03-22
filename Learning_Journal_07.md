@@ -39,7 +39,7 @@ Building a PHP-driven site made me rethink how **backend logic meets frontend st
 
 I also experimented with **capturing user input** using `$_POST` and learned how to **sanitise it** to prevent security issues; an insight I noted as a must-have in a secure production environment. Loops (`for`, `while`, `foreach`) helped **automate content**, which is vital for scalable web apps.
 
-A fun insight was learning how to integrate **JavaScript with PHP** to dynamically fetch new content (random facts). I gained the insight that you can have languages talk through eachother, such as when you echo raw HTML/Javascript or even take it one step further and have an echo of raw HTML that contains and in-line style. Something like:
+A fun insight was learning how to integrate **JavaScript with PHP** to dynamically fetch new content (random facts). I gained the insight that you can have languages 'talk through each other', such as when you echo raw HTML/Javascript or even take it one step further and have an echo of raw HTML that contains and in-line style. Something like:
 ```php
 <?php
 echo "<h2 style='text-align: center;'>Home Page</h2>";
@@ -55,10 +55,11 @@ echo "<h2 style='text-align: center;'>Home Page</h2>";
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-**Career Insights**: PHP is an extremely valuable skill to add to my coding career, it is in backend development everywhere with a particularly large spot being WordPress. This week reinforced my knowledge on PHP and how it is structured with and around HTML/CSS/Javascript. This provided me with great insight in the core and foundation knowledge behind the scenes; something critical in real-world projects. Learning how PHP and JavaScript work together also stood out as modern web apps rely on seamless backend-frontend communication, and understanding both sides makes me more versatile as a developer.
+**Career Insights**: PHP is an extremely valuable skill to add to my coding career. It is everywhere in backend development with a particularly important place being WordPress. This week reinforced my knowledge on PHP and how it is structured with and around HTML/CSS/Javascript. This provided me with great insight in the core and foundation knowledge behind the scenes; something critical in real-world projects. Learning how PHP and JavaScript work together also stood out as modern web apps rely on seamless backend-frontend communication, and understanding both sides makes me more versatile as a developer.
 
 **Employability Insights**: Debugging PHP errors, structuring sites with include, and separating JavaScript from PHP weren’t just technical exercises, they showed me how clean and maintainable code makes collaboration easier. Companies don’t just want coders, they want developers who can write efficient, scalable applications that won’t become a nightmare to maintain.
 
 **Personal Learning Insights**: PHP has taught me patience, small errors break everything, and debugging is often half the battle. However, I was quite impressed with the debugging log in my local environment and found it a useful tool to resolve errors. I also realised how backend logic and frontend interaction need to strike a balance where PHP does the heavy lifting of dynamic content while HTML does the standard static elements. This week has made me feel much more confident with PHP, which was previously a bit of a dark spot in my basic language knowledge.
+
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Original work of ***Casey Summers***
