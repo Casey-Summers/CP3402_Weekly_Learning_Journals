@@ -21,7 +21,7 @@
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week I spent `_` hours exclusively learning related topics for this subject.
+#### This week, I spent `_` hours learning `main prac topic` and related topics for this week's practical.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
