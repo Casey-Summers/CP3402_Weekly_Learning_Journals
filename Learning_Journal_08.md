@@ -11,7 +11,7 @@
 
 #### Desired learning outcomes & identified gaps in knowledge: 
 - [x] Outcome 1: Demonstrate correct usage of nested HTML elements and forms
-- [x] Outcome 2: Improve knowledge of PHP syntax (loops, conditionals, functions)
+- [x] Outcome 2: Improve knowledge of PHP and HTML syntax 
 - [x] Outcome 3: Achieve consistent indentation and reduce syntax errors by at least 20%
 - [ ] Additional Gap: Understand and apply secure practices for handling form input (e.g., XSS prevention)
 
@@ -77,7 +77,7 @@ This week, I did a short syntax-focused learning experiment to see if deliberate
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that syntax familiarity and quick debugging are crucial in any coding-related career. It relates to the industry by ensuring faster development times and fewer production errors. I see myself using this skill in future roles where a quick turnaround on coding tasks is vital. Also, the hands-on and do-it-yourself approach of this experiment is sure to correlate well with practical experience gained from the work-place. Especially since this is the place where coding—backed tests prove especially effective.
+My learning this week has shown me that syntax familiarity and quick debugging are crucial in any coding-related career. It relates to the industry by ensuring faster development times and fewer production errors. I see myself using this skill in future roles where a quick turnaround on coding tasks is vital. Also, the hands-on and do-it-yourself approach of this experiment is sure to correlate well with practical experience gained from the workplace. Especially since this is the place where coding-backed tests prove especially effective.
 
 <br>
 
