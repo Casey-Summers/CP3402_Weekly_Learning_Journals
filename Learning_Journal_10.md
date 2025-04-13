@@ -10,18 +10,21 @@
 > *Incorrect* example: "Doing the prac, solving a problem, making a site."
 
 #### Desired learning outcomes & identified gaps in knowledge: 
-- [x] Outcome 1
-- [ ] Outcome 2
-- [ ] Outcome 3
+Note: This week will focus on my process of setting up and preparing the group for the presentation as a group leader. I have not covered other learning materials and instead focused on getting the most out of our presentation.
+- [x] Understand the requirements and criteria for an HD presentation
+- [x] Create a presentation template that follows the guide of the task sheet criteria
+- [x] Add suggestions to help group members fill in their parts of the presentation
+- [x] Create a captivating and relevant intro/outro for the presentation
+- [x] Lead a group meeting to showcase my document and explain how team members can use it effectively
+- [x] Take feedback and go through an iterative process on the presentation template
+- [ ] Rehearse the presentation and actively mark it against criteria for each failed attempt
 
 #### Resources list:
-1. `topic` | `Purpose` | [Link]()
-2. `topic` | `Purpose` | [Link]()
-3. ...
+1. `Presentation Tasksheet` | `Provides the marking criteria for the presentation` | [JCU Tasksheet](https://learn.jcu.edu.au/ultra/courses/_184793_1/outline/file/_8725050_1)
 
 # Estimated Hours
 > Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time. - Lindsay Ward
-#### This week, I spent `_` hours learning `main prac topic` and related topics for this week's practical.
+#### This week, I spent `4` hours learning `presentation expectations` and related topics for this week's practical.
 
 # Content Insights
 > Guiding statements/questions: :bulb:
