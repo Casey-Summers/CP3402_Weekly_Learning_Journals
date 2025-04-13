@@ -33,7 +33,9 @@ Note: This week will focus on my process of setting up and preparing the group f
 > - Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks. - Lindsay Ward
 > - Sometimes there are not any real *'insights'*, just acknowledge this and don't make things up.
 
-This week I did (brief context)... in the process, I learned about (personal learning)... it revealed this thing about me (detailed insight).
+This week, I revised the requirements for achieving and delivering an HD presentation. In the process, I learned about how I can best showcase my ideas (and presumably for my group members, too) when they are structure and chronological. For instance, if an introduction to your presentation includes a list of workflows, those workflows should be revealed in the same order. Additionally, it was valuable that I was able to spend some of my own time to attempt to really understand presentation requirements so that I could pass this information onto my team members in a concise and detailed documentation. 
+
+I found it valuable to estimate the time that each section (each workflow) would take ahead of time so that the correct amount could be allocated. For instance, how the development workflow would be longer than the testing and automation workflow. I also got the chance to receive some valuable feedback from my group members when I showcased the template to them. They we very happy with the work put in but suggested that there was a lot of similarity or overlap between the development workflow and version control workflow. This led us to, as a team, decide that the development process would focus on showcasing our chosen solution, while the version control would explain why it was the best compared to the alternatives (with additional nuances allowed in each section for unique topics).
 
 # Career/Employability/Learning Insights
 >**Career**: How can your learnings aid your career? <br>
