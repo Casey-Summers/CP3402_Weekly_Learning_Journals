@@ -46,7 +46,11 @@ I found it valuable to estimate the time that each section (each workflow) would
 > - What careers use these skills, and are they something I am looking for or working towards?
 > - Was there something specific about the way I learned things that was effective this week?
 
-My learning this week has shown me that (topic/insight) is useful... it relates to the industry by (use-case)... I see myself using it because (career applications).
+**Career**: This week, I learned how important it is to present ideas in a clear, structured order. That’s a skill I’ll definitely need when explaining workflows or technical ideas in future jobs. Taking the time to understand the HD requirements and break them down for my group also showed me how useful strong planning and communication can be.
+
+**Employability**: Planning out the order and timing of each section made our group presentation more organised and realistic. These are real-world skills, as being able to communicate clearly, estimate time, and adjust based on feedback is very valuable. Writing a shared template and refining it with my team shows that I can take initiative and take pride in what I showcase to others.
+
+**Insights**: I realised I explain things better when they follow a step-by-step flow. Creating something useful for my team made me feel confident, and their feedback helped me see how to improve it. I also learned that small overlaps in topics can be fixed by working together and dividing content into more unique and better-structured sections.
 
 <br>
 
